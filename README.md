@@ -6,15 +6,15 @@ Developer: Pranav Goyal
 This is a Prototype Java Application designed to manage bookings for events in my school's auditorium. 
 
 HOW TO RUN
---> Download the complete app folder (except maybe the source files). Alternatively download from: https://goo.gl/CWh8ZP (Do not edit the contents of this folder)
---> You will require Java Runtime Environment to run the .jar file (Download jre from here: http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
---> Run the AuditoriumSeatBooking.jar using jre
+* Download the complete app folder (except maybe the source files). Alternatively download from: https://goo.gl/CWh8ZP (Do not edit the contents of this folder)
+* You will require Java Runtime Environment to run the .jar file (Download jre from here: http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
+* Run the AuditoriumSeatBooking.jar using jre
 
 NOTES:
---> Use (Username: admin & Password: admin) to access the admin mode. 
---> Internet connection is required for emailing service 
---> Admin mode can be used for:
-	~ Adding new event
+* Use (Username: admin & Password: admin) to access the admin mode. 
+* Internet connection is required for emailing service 
+* Admin mode can be used for:
+...Adding new event
 	~ Modify Booking details and/or reserved seats of previously added events
 	~ Viewing/editing the database directly
 	~ Adding new admin account
