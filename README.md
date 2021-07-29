@@ -26,3 +26,7 @@ This is a Prototype Java Application designed to manage bookings for events in m
 Feel free to email me your feedback, queries or suggestions at:
 goyalpranav25@gmail.com
 pranav.goyal@research.iiit.ac.in
+
+Sample Image: 
+Seat selection window
+![image](https://user-images.githubusercontent.com/43828359/127481285-c2205a0f-8a15-4053-8c50-05a1bc44bcf9.png)
